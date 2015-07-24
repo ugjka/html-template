@@ -17,3 +17,8 @@ a:hover {color: #69f;}
 body, html {
   height: 100%;
 }
+
+/* Fix quirk where margin is added to the body automatically */
+body {
+	margin: 0px;
+}
