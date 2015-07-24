@@ -1,2 +1,2 @@
-# sleep
-Simple mobile webplayer for http://ambientsleepingpill.com/
+# html-template
+Simple template for starting simple projects
