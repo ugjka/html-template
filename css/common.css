@@ -12,3 +12,8 @@ body, select, input, textarea {color: #333;}
 
 a {color: #03f;}
 a:hover {color: #69f;}
+
+/* Needed to make divs respond to height: *%*/
+body, html {
+  height: 100%;
+}
